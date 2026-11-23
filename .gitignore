@@ -1,0 +1,6 @@
+.pio
+sdkconfig.*.old
+
+*.bkp
+
+.vscode
